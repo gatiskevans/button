@@ -1,0 +1,14 @@
+.content {
+    text-align: center;
+    margin: auto;
+}
+
+#number {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#add {
+    font-weight: bold;
+    font-size: 15px;
+}
