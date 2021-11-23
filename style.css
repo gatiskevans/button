@@ -12,3 +12,8 @@
     font-weight: bold;
     font-size: 15px;
 }
+
+#add:hover {
+    float: left;
+    transition-delay:1s;
+}
